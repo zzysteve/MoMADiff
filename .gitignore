@@ -1,0 +1,15 @@
+checkpoints
+glove
+CLIP
+dataset/
+log
+out/
+.vscode
+
+*.pyc
+*.gif
+*.npy
+*.ipynb_checkpoints
+*.log
+*.sh
+*.pkl

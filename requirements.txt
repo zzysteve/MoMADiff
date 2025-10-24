@@ -1,0 +1,15 @@
+einops==0.8.0
+jupyter
+matplotlib==3.9.2
+numpy==2.1.0
+PyYAML==6.0.2
+spacy==3.8.7
+tqdm==4.66.5
+tensorboard==2.20.0
+scipy==1.15.3
+imageio==2.37.0
+torch_ema==0.3
+smplx==0.1.28
+h5py==3.14.0
+huggingface-hub
+chumpy==0.70 # need to modify the your_path/anaconda3/envs/momadiff/lib/python3.10/site-packages/chumpy/__init__.py since np.int is not exist in higher version numpy
