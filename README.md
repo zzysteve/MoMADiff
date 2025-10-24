@@ -11,12 +11,17 @@ If you find our code or paper helpful, please consider starring our repository a
 }
 ```
 
+## Overview
+
+![overview_image](assets/overview.jpg)
+
 ## Open Source TODOs
 - [x] Code release
 - [x] Pre-trained models
 - [x] Training scripts
 - [x] Evaluation scripts
-- [ ] Keyframe-guided generation
+- [x] Text-to-motion generation demo
+- [ ] Keyframe-guided generation demo
 
 ## Quick Start
 
