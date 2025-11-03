@@ -3,11 +3,21 @@
 
 If you find our code or paper helpful, please consider starring our repository and citing:
 ```
-@article{zhang2025towards,
-  title={Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion},
-  author={Zhang, Zongye and Kong, Bohan and Liu, Qingjie and Wang, Yunhong},
-  journal={arXiv preprint arXiv:2505.11013},
-  year={2025}
+@inproceedings{zhang2025towards,
+  author = {Zhang, Zongye and Kong, Bohan and Liu, Qingjie and Wang, Yunhong},
+  title = {Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion},
+  year = {2025},
+  isbn = {9798400720352},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3746027.3754748},
+  doi = {10.1145/3746027.3754748},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages = {9326–9335},
+  numpages = {10},
+  keywords = {diffusion model, human motion generation, masked modeling, text-to-motion},
+  location = {Dublin, Ireland},
+  series = {MM '25}
 }
 ```
 
